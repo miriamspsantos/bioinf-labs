@@ -1,12 +1,17 @@
-site_name: Bioinformatics Laboratories
+site_name: Laboratórios de Bioinformática
 #site_url: https://github.com/miriamspsantos/ai-in-society
 nav:
-  - Home: 'index.md'
+  - BIOINF1001: 'index.md'
   - Lab 28/02:
-    - 'lab02.md'
-    - Exercise 1: 'ex02_01.md'
-    - Exercise 2: 'ex02_01.md'
-    - Exercise 3: 'ex02_01.md'
+    - Introdução: 'lab02/intro.md'
+    - Manipulação de Ficheiros: 'lab02/ficheiros.md'
+    - Pipes: 'lab02/pipes.md'
+    - Wildcards: 'lab02/wildcards.md'
+    - Manual (man): 'lab02/manual.md'
+    - Exercício 1: 'lab02/ex02_01.md'
+    - Exercício 2: 'lab02/ex02_02.md'
+    - Exercício 3: 'lab02/ex02_03.md'
+  - Lista de Comandos: 'cheatsheet.md'
 theme:
   name: material
   features:
@@ -20,7 +25,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   
-  language: en
+  language: pt
   palette:
     - scheme: default
       toggle:
