@@ -10,7 +10,8 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 
 ### **Laboratórios**
 - **Lab 21/02**: Bases de dados de Sequências Biológicas 
-- [Lab 28/02](lab02/intro.md): Introdução à Linha de Comandos I
+- [Lab 28/02](lab02/intro.md): Introdução à Linha de Comandos
+- [Lab 07/03](lab03/intro.md): Shell Scripting
 
 ### **Software**
 - *TBA*
