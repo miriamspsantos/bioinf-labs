@@ -1,6 +1,5 @@
 # Introdução à Linha de Comandos
 
-## Linha de Comandos
 A linha de comandos (**command line** ou **command prompt**) é uma interface de texto onde podemos interagir com o sistema operativo do computador executando comandos directamente. Ou seja, em vez de usarmos uma interface gráfica com ícones e menus, a linha de comandos permite-nos executar programas, aceder a ficheiros e realizar muitas outras tarefas diretamente, através de comandos de texto.
 
 No Windows, podemos aceder à linha de comandos através da **Command Prompt** (*cmd.exe* ou *cmd*) ou **PowerShell**, enquanto que no Linux ou macOS, é usado o **Terminal**.

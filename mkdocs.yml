@@ -3,7 +3,7 @@ site_name: Laboratórios de Bioinformática
 nav:
   - BIOINF1001: 'index.md'
   - Lab 28/02:
-    - Introdução: 'lab02/intro.md'
+    - Linha de Comandos: 'lab02/intro.md'
     - Manipulação de Ficheiros: 'lab02/ficheiros.md'
     - Pipes: 'lab02/pipes.md'
     - Wildcards: 'lab02/wildcards.md'
@@ -11,7 +11,18 @@ nav:
     - Exercício 1: 'lab02/ex02_01.md'
     - Exercício 2: 'lab02/ex02_02.md'
     - Exercício 3: 'lab02/ex02_03.md'
-  - Lista de Comandos: 'cheatsheet.md'
+  - Lab 07/03: 
+    - Shell Scripting: 'lab03/intro.md'
+    - Grep: 'lab03/grep.md'
+    - Sed: 'lab03/sed.md'
+    - Awk: 'lab03/awk.md'
+    - Exercício 1: 'lab03/ex03_01.md'
+    - Exercício 2: 'lab03/ex03_02.md'
+    - Exercício 3: 'lab03/ex03_03.md'
+  - Links: 'links.md'
+  - Help:
+    - Lista de comandos: 'help/lista_comandos.md'
+    - Shell Scripting: 'help/shell_scripting.md'
 theme:
   name: material
   features:

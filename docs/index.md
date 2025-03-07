@@ -14,9 +14,3 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 
 ### **Software**
 - *TBA*
-
-### **Links**
-- [*Moodle 24/25*](https://moodle2425.up.pt)
-- [*Unix CheatSheet (.pdf)*](https://files.fosswire.com/2007/08/fwunixref.pdf)
-- [*UCI Davis: Introduction to the Command Line for Bioinformatics (course)*](https://ucdavis-bioinformatics-training.github.io/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics/)
-- [*Data Science at the Command Line (book)*](https://jeroenjanssens.com/dsatcl/)
