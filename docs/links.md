@@ -14,6 +14,8 @@
 
 ### Livros
 - [*Data Science at the Command Line*](https://jeroenjanssens.com/dsatcl/)
+- [*A Primer for Computational Biology*](https://open.oregonstate.education/computationalbiology/front-matter/preface/)
+- [*Bioinformatics Programming Using Python*](books/Bioinformatics_Programming_Using_Python.pdf)
 
 ### Cheatsheets e Manuais
 - [*Unix CheatSheet (.pdf)*](https://files.fosswire.com/2007/08/fwunixref.pdf)

@@ -14,6 +14,7 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 - [Lab 07/03](lab03/intro.md): Introdução ao Shell Scripting
 - **Lab 14/03**: Semelhança de Sequências Biológicas
 - [Lab 21/03](lab04/intro.md): Processamento Básico de Sequências
+- [Lab 28/03](lab05/intro.md): Workflows para Processamento de Sequências Biológicas
 
 ### **Software**
 - [Git Bash](https://git-scm.com/downloads): Instala uma shell `bash` no Windows (**Nota:** *é uma boa alternativa à PowerShell ou à Windows Command Prompt, na qual os comandos abordados nas aulas podem não funcionar diretamente*).
