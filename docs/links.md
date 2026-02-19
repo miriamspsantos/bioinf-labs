@@ -1,9 +1,10 @@
 # Links Úteis
 
 ## Informações da UC
-- [*Moodle Laboratórios de Bioinformática 24/25*](https://moodle2425.up.pt)
-- [*Página do Sigarra | Laboratórios de Bioinformática (BIOINF1001)*](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=549127) 
+- [*Moodle Laboratórios de Bioinformática 25/26*](https://moodle2526.up.pt)
+- [*Página do Sigarra | Laboratórios de Bioinformática (BIOINF1001)*](https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=570268) 
 
+<!--
 ## Materiais 
 
 ### Tutoriais
@@ -22,3 +23,4 @@
 - [*Sed: A Stream Editor, 2024*](https://www.gnu.org/software/sed/manual/sed.html)
 - [*Bash Regex Matching*](https://labex.io/tutorials/shell-bash-regex-matching-391551)
 - [*grep, awk, and sed*](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)
+-->
