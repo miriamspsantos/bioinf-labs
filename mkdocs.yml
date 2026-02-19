@@ -25,6 +25,16 @@ nav:
   #- Help:
   #  - Lista de comandos: 'help/lista_comandos.md'
   #  - Shell Scripting: 'help/shell_scripting.md'
+
+exclude_docs: |
+  lab02/*
+  lab03/*
+  lab04/*
+  lab05/*
+  help/*
+  data/*
+  books/*
+
 theme:
   name: material
   features:
@@ -89,4 +99,4 @@ markdown_extensions:
       alternate_style: true
 
 copyright: |
-  &copy; 2025 <a href="https://github.com/miriamspsantos"  target="_blank" rel="noopener">Miriam Seoane Santos</a>
+  &copy; 2026 <a href="https://github.com/miriamspsantos"  target="_blank" rel="noopener">Miriam Seoane Santos</a>
