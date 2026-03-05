@@ -8,8 +8,9 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 
 ### **Laboratórios**
 - **Lab 20/02**: Introdução à Unidade Curricular
+- **Lab 27/02**: Bases de Dados de Sequências Biológicas
+- **Lab 06/03**: Processamento Básico de Sequências Biológicas
 <!--
-- **Lab 20/02**: Bases de dados de Sequências Biológicas 
 - [Lab 28/02](lab02/intro.md): Introdução à Linha de Comandos
 - [Lab 07/03](lab03/intro.md): Introdução ao Shell Scripting
 - **Lab 14/03**: Semelhança de Sequências Biológicas

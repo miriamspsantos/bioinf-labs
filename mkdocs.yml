@@ -2,6 +2,7 @@ site_name: Laboratórios de Bioinformática
 site_url: https://github.com/miriamspsantos/bioinf-labs
 nav:
   - BIOINF1001: 'index.md'
+  - Lab 06/03: 'lab04/intro.md'
   #- Lab 28/02:
   #  - Linha de Comandos: 'lab02/intro.md'
   #  - Manipulação de Ficheiros: 'lab02/ficheiros.md'
@@ -29,7 +30,6 @@ nav:
 exclude_docs: |
   lab02/*
   lab03/*
-  lab04/*
   lab05/*
   help/*
   data/*
