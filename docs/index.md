@@ -10,13 +10,17 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 - **Lab 20/02**: Introdução à Unidade Curricular
 - **Lab 27/02**: Bases de Dados de Sequências Biológicas
 - **Lab 06/03**: Processamento Básico de Sequências Biológicas
+- **Lab 13/03**: Processamento Avançado de Sequências Biológicas
+- **Lab 20/03**: Semelhança de Sequências Biológicas
+- **Lab 27/03**: Realização do Mini-Teste 1
+- **Lab 10/04**: Introdução à Linha de Comandos
 <!--
 - [Lab 28/02](lab02/intro.md): Introdução à Linha de Comandos
 - [Lab 07/03](lab03/intro.md): Introdução ao Shell Scripting
 - **Lab 14/03**: Semelhança de Sequências Biológicas
 - [Lab 21/03](lab04/intro.md): Processamento Básico de Sequências
 - [Lab 28/03](lab05/intro.md): Workflows para Processamento de Sequências Biológicas
-
-### **Software**
-- [Git Bash](https://git-scm.com/downloads): Instala uma shell `bash` no Windows (**Nota:** *é uma boa alternativa à PowerShell ou à Windows Command Prompt, na qual os comandos abordados nas aulas podem não funcionar diretamente*).
 -->
+### **Software**
+- [Git Bash](https://git-scm.com/downloads): Instala uma shell `bash` no Windows (**Nota:** *é uma boa alternativa à PowerShell ou à Windows Command Prompt, na qual os comandos abordados nas aulas podem não funcionar diretamente*). Podem consultar [este tutorial](https://www.codecademy.com/article/how-to-install-git-bash-for-windows-complete-setup-guide) caso necessitem de ajuda na configuração.
+<!-- Git Bash:  https://gitforwindows.org -->
