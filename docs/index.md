@@ -14,6 +14,7 @@ Página de apoio às aulas práticas da UC de [Laboratórios de Bioinformática 
 - **Lab 20/03**: Semelhança de Sequências Biológicas
 - **Lab 27/03**: Realização do Mini-Teste 1
 - **Lab 10/04**: Introdução à Linha de Comandos
+- **Lab 17/04**: Processamento de Dados na Linha de Comandos
 <!--
 - [Lab 28/02](lab02/intro.md): Introdução à Linha de Comandos
 - [Lab 07/03](lab03/intro.md): Introdução ao Shell Scripting
